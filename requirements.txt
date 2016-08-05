@@ -1,0 +1,11 @@
+socket
+requests
+subprocess
+time
+base64
+os
+PyCrypto
+BaseHTTPServer
+base64
+cgi
+datetime
