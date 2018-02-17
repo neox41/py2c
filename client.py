@@ -2,33 +2,12 @@
 # -*- coding: utf-8 -*-
 
 """
-PyC2 - A fully undetectable command and control shell (Client)
+PyC2 - An encrypted TCP and HTTP shell (Client)
 
 * AES Encryption
 * Reverse Shell
 * HTTP and TCP connections
 * File Transfer
-
-#########################################################################
-#                                                                     	#
-# Developed by Mattia Reggiani, info@mattiareggiani.com               	#
-#                                                                     	#
-# This program is free software: you can redistribute it and/or modify	#
-# it under the terms of the GNU General Public License as published by	#
-# the Free Software Foundation, either version 3 of the License, or	#
-# (at your option) any later version.					#
-#									#
-# This program is distributed in the hope that it will be useful,      	#
-# but WITHOUT ANY WARRANTY; without even the implied warranty of       	#
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the        	#
-# GNU General Public License for more details.                         	#
-#                                                                      	#
-# You should have received a copy of the GNU General Public License    	#
-# along with this program. If not, see <http://www.gnu.org/licenses/>  	#
-#                                                                      	#
-# Released under the GNU Affero General Public License                 	#
-# (https://www.gnu.org/licenses/agpl-3.0.html)                         	#
-#########################################################################
 	
 """
 
@@ -45,7 +24,7 @@ __version__='v0.1'
 __description__='''\
   ___________________________________________________________
   
-  PyC2 - A fully undetectable command and control shell (Client)
+  PyC2 - An encrypted TCP and HTTP shell (Client)
   Author: Mattia Reggiani (info@mattiareggiani.com)
   Github: https://github.com/mattiareggiani/py2c
   ___________________________________________________________
